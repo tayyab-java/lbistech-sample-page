@@ -19,8 +19,9 @@ git clone https://github.com/tayyab-java/lbistech-sample-page.git
 ## Features
 
 - Sample html css project with rotate animation 
-![Alt Text](https://s5.gifyu.com/images/project.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+![Alt Text](https://i.imgur.com/582siNk.gif)
+
 
 
 
