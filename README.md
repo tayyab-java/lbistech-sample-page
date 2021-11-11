@@ -52,7 +52,7 @@ sudo su
 cd /var/www
 ```
 ```sh
-curl localhhost:80
+curl localhost:80
 ```
 
 
